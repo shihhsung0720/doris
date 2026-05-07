@@ -1,0 +1,32 @@
+# secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Claude local（個人偏好、可能含敏感變數名、不公開）
+CLAUDE.local.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs / temp
+*.log
+.cache/
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
