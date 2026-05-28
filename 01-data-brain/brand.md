@@ -117,7 +117,9 @@ last_updated: 2026-05-13
 - 目前沒翻車過（未來若翻車回來記）
 
 ### 個人最愛的爆款（自我認證標準）
-- 影片：https://www.instagram.com/reel/DOtLjejgRJ1/
+- 影片：**「兒子終究是別人的」**（104 萬觀看、對應 `cases.md` #4）
+- 連結：https://www.instagram.com/reel/DOtLjejgRJ1/
+- 結構：金句 + 對比、角度：媽媽 vs 阿嬤
 - 理由：「連我自己都有笑出來」
 - **判準**：「自己看了會笑」=「對的內容」 — AI 寫完腳本可以反問「Doris 自己看到會笑嗎？」
 
